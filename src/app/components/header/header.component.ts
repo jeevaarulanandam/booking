@@ -13,7 +13,10 @@ name = 'Booking';
   firstname ="Jeeva";
   color = "red";
   size = "100";
-  someExpression ="Test Test" ;
+  someExpression ="Testing the angular2 document" ;
+
+  
+
 
     constructor() {
 
